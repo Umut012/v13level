@@ -3,10 +3,10 @@ const db = require("nrc.db");
 module.exports = async(client) => {
 
   
-  client.user.setStatus("online");
+  client.user.setStatus("dnd");
   const aktiviteler = [
-    "Narcos Code V13 Altyapı",
-    "Ne bilim şimdilik boş"
+    "Arenus Level Botu",
+    "Owo Central"
 
   ]
   setInterval(function() {
