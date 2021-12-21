@@ -37,7 +37,7 @@ module.exports = {
             const NARCOSEMBED = new Discord.MessageEmbed()
             .setAuthor("Seviye || Yardım Menüsü", client.user.avatarURL())
            .setColor("#BLUE")
-          .setDescription(`<:saret:823577810382618655> **| NarcosCode Altyapı - Made By MustafaMert & Croxy**
+          .setDescription(`<:saret:823577810382618655> **| Arenus Level - Made By Arenus & Umut**
         
           <:kurallar:823577810488393738> Yetkili Komutları:
           
